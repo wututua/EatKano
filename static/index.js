@@ -419,7 +419,7 @@
         cookie('keyboard', document.getElementById("keyboard").value, 100);
         initSetting();
         let title=document.getElementById("title").value;
-        document.getElementsByTagName("title")[0].innerText = title?title:"吃掉小鹿乃";
+        document.getElementsByTagName("title")[0].innerText = title?title:"吃掉小彩鱼";
     }
 
     w.isnull = function(val) {
